@@ -12,7 +12,7 @@
  * Text Domain:       pxc-importassistant
  */
 
-
+echo 'test';
 
  
 ?>
